@@ -1,3 +1,4 @@
+//2Modificacion
 // Funcionalidad para "Seguir leyendo"
 document.querySelector('.contenido .mas').addEventListener('click', function() {
     var paragraph = document.querySelector('.contenido .expanded');
